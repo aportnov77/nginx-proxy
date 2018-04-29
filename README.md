@@ -1,6 +1,6 @@
 # nginx-proxy
 
-##how to use
+## how to use
 
 Create network:
 ```bash
